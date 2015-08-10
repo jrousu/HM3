@@ -1,0 +1,10 @@
+04-Jan-2007 14:59:12: tm: 12 err_tr: 1352 (1.00) ml.loss tr: 5408 (2.12) err_ts: 358 (100.00) ml.loss ts: 1432 (2.12)
+04-Jan-2007 15:00:20: alg: TCGDx tm: 80  iter: 2704 obj: 3345.609322 mu: max 1.000000 min 0.000000 dgap: 15430.143539 xi: 7351.794798
+04-Jan-2007 15:00:27: tm: 87 err_tr: 1104 (81.66) ml.loss tr: 2672 (1.05) err_ts: 330 (92.18) ml loss ts: 865 (1.28)
+04-Jan-2007 15:21:55: tm: 12 err_tr: 1352 (1.00) ml.loss tr: 5408 (2.12) err_ts: 358 (100.00) ml.loss ts: 1432 (2.12)
+04-Jan-2007 15:23:02: alg: TCGDx tm: 80  iter: 2704 obj: 3345.609322 mu: max 1.000000 min 0.000000 dgap: 15430.143539 xi: 7351.794798
+04-Jan-2007 15:23:09: tm: 87 err_tr: 1104 (81.66) ml.loss tr: 2672 (1.05) err_ts: 330 (92.18) ml loss ts: 865 (1.28)
+04-Jan-2007 15:41:57: tm: 12 err_tr: 1352 (1.00) ml.loss tr: 5408 (2.12) err_ts: 358 (100.00) ml.loss ts: 1432 (2.12)
+04-Jan-2007 15:43:05: alg: TCGDx tm: 80  iter: 2704 obj: 3345.609322 mu: max 1.000000 min 0.000000 dgap: 15430.143539 xi: 7351.794798
+04-Jan-2007 15:43:11: tm: 87 err_tr: 1104 (81.66) ml.loss tr: 2672 (1.05) err_ts: 330 (92.18) ml loss ts: 865 (1.28)
+04-Jan-2007 15:45:09: tm: 12 err_tr: 1352 (1.00) ml.loss tr: 5408 (2.12) err_ts: 358 (100.00) ml.loss ts: 1432 (2.12)
