@@ -6,7 +6,7 @@ accepted to Journal of Machine Learning Research.
 Kernel-Based Learning of Hierarchical Multilabel Classification Models'
 
 The implementation is due to Juho Rousu (firstname dot lastname at
-cs.helsinki.fi). The implementation is a research prototype and is provided AS
+aalto.fi). The implementation is a research prototype and is provided AS
 IS, no warranties or quarantees of any kind are given. 
 
 Data format
